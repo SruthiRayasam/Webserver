@@ -1,6 +1,8 @@
 D:\TFS\PersonalProjects\WebServer\WebServer\bin\Debug\WebServer.exe.config
 D:\TFS\PersonalProjects\WebServer\WebServer\bin\Debug\WebServer.exe
 D:\TFS\PersonalProjects\WebServer\WebServer\bin\Debug\WebServer.pdb
-D:\TFS\PersonalProjects\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
 D:\TFS\PersonalProjects\WebServer\WebServer\obj\Debug\WebServer.exe
 D:\TFS\PersonalProjects\WebServer\WebServer\obj\Debug\WebServer.pdb
+D:\TFS\PersonalProjects\WebServer\WebServer\bin\Debug\Newtonsoft.Json.dll
+D:\TFS\PersonalProjects\WebServer\WebServer\bin\Debug\Newtonsoft.Json.xml
+D:\TFS\PersonalProjects\WebServer\WebServer\obj\Debug\WebServer.csprojResolveAssemblyReference.cache
